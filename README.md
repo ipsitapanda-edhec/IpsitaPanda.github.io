@@ -1,2 +1,2 @@
-# ipsitapanda-edhec.github.io
+# ipsitapanda.github.io
 Website For My Work Portfolio
